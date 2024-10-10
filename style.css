@@ -7,7 +7,7 @@ font-family: 'poppins', serif;
 .container{
     width: 100%;
     height: 100vh;
-    background: #e3f9ff;
+    background: #3a4452;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,16 +46,4 @@ box-shadow: none;
  }
  form input.operator{
     color: #33ffd8
- }
-
- @media only screen and (max-width: 480px) {
-  .calculator{
-   height: 100vh;
-   width: 100vw;
-  }
- .All-button{
-    position: relative;
-    margin-top: 84%;
-    margin-left: 2.5%;
- }
  }
